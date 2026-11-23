@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I am Hemalatha Puram. Associate focused on UI automation.
 
-<!--
-**Hemalatha-Puram-Builds/Hemalatha-Puram-Builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and maintain Selenium frameworks in Java, and I care about suites
+that stay fast, honest, and green in CI.
 
-Here are some ideas to get you started:
+**Stack**
+Selenium 4, Java 21, TestNG, Maven, Page Object Model, Cucumber,
+Allure, Selenium Grid, Docker, GitHub Actions, Jenkins.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What to look at first**- 
+- selenium-java-framework    POM, ThreadLocal driver, TestNG, Allure, CI
+- selenium-cucumber-bdd      Gherkin features over the same page layer
+- selenium-grid-docker       parallel runs on a dockerised Grid 4
+- java-sdet-practice         collections, streams and string programs
+- api-plus-ui-seeding        REST Assured setting up state for a UI test
+  
+**Reach me**
+https://github.com/Hemalatha-Puram-Builds
+https://www.linkedin.com/in/hemalatha-puram-550a7b230/ 
